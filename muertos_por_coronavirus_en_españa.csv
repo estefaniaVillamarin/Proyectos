@@ -479,17 +479,3 @@
 2021; 30 de diciembre;89.405
 2022; 3 de enero;89.573
 2022; 4 de enero;89.689
-;;
-;;
-"Métrica:""Cifra total de muertos por Covid-19 en España""";;
-"Fuente:""Ministerio de Sanidad, Servicios Sociales e Igualdad,Universidad Johns Hopkins""";;
-"Clasificación:""""";;
-"Unidad:""Número de fallecidos""";;
-"Escala:""Unidades""";;
-"EscalaFactorPotencia10:""0""";;
-"SonDatosNumericos:""True""";;
-;;
-;;
-"Url:""https://www.epdata.es/muertes-coronavirus-espana/b2568be9-c6b6-4056-86d6-02c6d45b1696""";;
-"Titulo:""Muertos por coronavirus en España""";;
-"Subtitulo:""""";;
